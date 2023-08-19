@@ -2,7 +2,7 @@
 - [x] ✨ Novice looking for mentorship
 - [x] 👀 I’m interested in Cybersecurity
 - [x] 🌱 I’m currently learning java and go
-- [x] 💞️ I’m looking to collaborate on python software ot other programing
+- [x] 💞️ I’m looking to collaborate on Python software oR other programing
 - [x] 📫 You can reach me at 1942507075@qq.com 
 <!---
 certainstar/certainstar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
